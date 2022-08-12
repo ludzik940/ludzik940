@@ -12,5 +12,15 @@
 <a href="https://instagram.com/dominikcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dominikcode" height="30" width="40" /></a>
 </p>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/dominik-jurczak-019b13181/" target="blank">
+  <img align="center" 
+    src=""https://skillicons.dev/icons?i=linkedin" 
+    alt="dominikcode" 
+    height="30" 
+    width="40" />
+  </a>
+</p>
+
 
 
