@@ -15,7 +15,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/dominik-jurczak-019b13181/" target="blank">
   <img align="center" 
-    src=""https://skillicons.dev/icons?i=linkedin" 
+    src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim"" 
     alt="dominikcode" 
     height="30" 
     width="40" />
