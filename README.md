@@ -11,7 +11,7 @@
 
 
 <p align="left">
-  <a href="https://instagram.com/dominikcode" target="blank">
+  <a href="https://www.instagram.com/dev_in_truck/" target="blank">
   <img align="center" 
     src="https://skillicons.dev/icons?i=instagram"
     alt="dominikcode" 
